@@ -1,0 +1,24 @@
+{
+  "name": "base-app",
+  "version": "1.0.0",
+  "description": "Basic Heroku App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hristo2612/base-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hristo2612/base-app/issues"
+  },
+  "homepage": "https://github.com/hristo2612/base-app#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "password-generator": "^2.2.0"
+  }
+}
